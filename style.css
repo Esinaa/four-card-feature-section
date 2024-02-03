@@ -1,0 +1,32 @@
+/*begining of the code*/
+/*--main container--*/
+.mother {
+    
+    padding-top: 40px;
+    text-align: center;
+}
+
+/*.reliable {
+
+}*/
+
+.rely {
+    font-weight: 300;
+    color: grey;
+    font-size: 28px;
+}
+
+.tech-span {
+    font-size: 28px;
+}
+
+.data {
+    font-weight: 400;
+    font-size: 12px;
+    color: lightgrey;
+}
+
+/*
+.points {
+    font-weight: 400;
+}*/
